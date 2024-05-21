@@ -1,3 +1,3 @@
-# Ansible WordPress Capstone
+# Ansible WordPress 
 
-This is the starting point for the Ansible Capstone project in the Mastering Ansible Automation course
+Using Ansible playbooks for the deployment of a wordpress website
